@@ -21,12 +21,8 @@ Traditional fraud detection methods often struggle with accuracy due to the high
 The dataset used consists of anonymized credit card transactions with a significant class imbalance. Advanced resampling and feature engineering techniques are applied to ensure accurate fraud identification.
 [Online Fraud Detection Dataset](https://www.kaggle.com/datasets/rizwanash/onlinefraud/data)
 
-## Machine Learning Models Compared
-- **Decision Tree**
+## Machine Learning Models Used
 - **Random Forest**
-- **Logistic Regression**
-- **Artificial Neural Networks (ANN)**
-- **Naive Bayes**
 
 ## Approach
 1. **Data Preprocessing**
