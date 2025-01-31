@@ -20,6 +20,7 @@ Traditional fraud detection methods often struggle with accuracy due to the high
 
 ## Dataset
 The dataset used consists of anonymized credit card transactions with a significant class imbalance. Advanced resampling and feature engineering techniques are applied to ensure accurate fraud identification.
+[Onlin Fraud Detection Dataset](https://www.kaggle.com/datasets/rizwanash/onlinefraud/data)
 
 ## Machine Learning Models Implemented
 - **Decision Tree**
@@ -66,10 +67,4 @@ The proposed approach using GA-based feature selection significantly enhances mo
    ```bash
    python deploy.py
    ```
-
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## License
-This project is licensed under the MIT License.
 
